@@ -48,8 +48,30 @@ main h2 {
 
 .Bouton {
     border: 1px solid green;
-    height: 10vh;
-    width: auto;
+    height: 5vh;
+    width: 15vw;
     display: table-cell;
     vertical-align: middle;
+    text-align: center;
+    background-color: rgb(104, 141, 47);
+    border-radius: 2rem;
+    text-shadow: 1px 1px 1px black;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+/*----------------ARRIVER SUR LES AUTRES PAGES------------------------*/
+.gros_mid {
+    width: 99vw;
+    height: 80vh;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 10rem;
+    border: 1px solid black
 }
