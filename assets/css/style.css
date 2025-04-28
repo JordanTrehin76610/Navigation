@@ -1,0 +1,31 @@
+/*-------------------------------BARRE DE NAVIGATION--------------------*/
+nav {
+    height: 10vh;
+    width: 99vw;
+    border: 1px solid red;
+    background-color: rgb(236, 235, 235);
+    position: sticky;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.logo {
+    height: 10vh;
+    width: 10vw;
+    display: inline-block;
+}
+
+nav p {
+    height: 10vh;
+    width: auto;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 1rem;
+}
+
+/*------------------------------CONTENUE MAIN---------------------*/
+main {
+    height: 87vh;
+    width: 99vw;
+    border: 1px solid blue;
+}
