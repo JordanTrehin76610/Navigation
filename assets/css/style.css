@@ -2,8 +2,6 @@
 nav {
     height: 10vh;
     width: 99vw;
-    border: 1px solid red;
-    background-color: rgb(236, 235, 235);
     position: sticky;
     display: inline-block;
     vertical-align: middle;
@@ -27,22 +25,21 @@ nav p {
 main {
     height: 87vh;
     width: 99vw;
-    border: 1px solid blue;
+    background: #ffffff;
+    background: linear-gradient(90deg, #9ebd13 0%, #008552 100%)
 }
 
 main h1 {
     height: 25vh;
     width: auto;
-    border: 1px solid black;
     display: table-cell;
     vertical-align: bottom;
 
 }
 
 main h2 {
-    height: 5vh;
+    height: 15vh;
     width: auto;
-    border: 1px solid yellow;
     vertical-align: top;
 }
 
@@ -73,5 +70,4 @@ a {
     text-align: center;
     vertical-align: middle;
     font-size: 10rem;
-    border: 1px solid black
 }
