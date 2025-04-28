@@ -32,29 +32,34 @@ main {
 }
 
 main h1 {
-    height: 25vh;
-    width: auto;
+    height: 15vh;
+    width: 99vw;
     display: table-cell;
+    text-align: center;
     vertical-align: bottom;
+    font-size: 3rem;
 }
 
 main h2 {
-    height: 15vh;
-    width: auto;
+    height: 30vh;
+    width: 99vw;
     vertical-align: top;
+    text-align: center;
 }
 
-.Bouton {
+button {
     border: 1px solid green;
-    height: 5vh;
-    width: 15vw;
+    height: 10vh;
+    width: 30vw;
     display: table-cell;
     vertical-align: middle;
     text-align: center;
-    background-color: rgb(104, 141, 47);
+    background-color: rgb(86, 117, 39);
     border-radius: 2rem;
     text-shadow: 1px 1px 1px black;
     color: white;
+    margin-left: 35vw;
+    font-size: 2rem;
 }
 
 a {
