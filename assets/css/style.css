@@ -13,18 +13,7 @@ nav {
     display: inline-block;
 }
 
-/*nav p {
-    height: auto;
-    width: 8vw;
-    display: inline-block;
-    text-align: center;
-    vertical-align: 5vh;
-    margin: 1rem;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
-}*/
-
-.menu {
+nav p {
     height: auto;
     width: 8vw;
     display: inline-block;
@@ -32,6 +21,15 @@ nav {
     vertical-align: 5vh;
     border-right: 1px solid black;
 }
+
+/*.menu {
+    height: auto;
+    width: 8vw;
+    display: inline-block;
+    text-align: center;
+    vertical-align: 5vh;
+    border-right: 1px solid black;
+}*/
 
 /*------------------------------CONTENUE MAIN---------------------*/
 main {
