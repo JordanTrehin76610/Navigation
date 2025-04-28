@@ -22,18 +22,9 @@ nav p {
     border-right: 1px solid black;
 }
 
-/*.menu {
-    height: auto;
-    width: 8vw;
-    display: inline-block;
-    text-align: center;
-    vertical-align: 5vh;
-    border-right: 1px solid black;
-}*/
-
 /*------------------------------CONTENUE MAIN---------------------*/
 main {
-    height: 87vh;
+    height: 84vh;
     width: 99vw;
     background: #ffffff;
     background: linear-gradient(90deg, #9ebd13 0%, #008552 100%)
@@ -79,4 +70,11 @@ a {
     text-align: center;
     vertical-align: middle;
     font-size: 10rem;
+}
+
+footer {
+    height: 2vh;
+    width: 99vw;
+    text-align: center;
+    font-size: larger;
 }
