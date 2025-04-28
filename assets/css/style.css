@@ -13,12 +13,24 @@ nav {
     display: inline-block;
 }
 
-nav p {
-    height: 10vh;
-    width: auto;
+/*nav p {
+    height: auto;
+    width: 8vw;
     display: inline-block;
-    vertical-align: middle;
+    text-align: center;
+    vertical-align: 5vh;
     margin: 1rem;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}*/
+
+.menu {
+    height: auto;
+    width: 8vw;
+    display: inline-block;
+    text-align: center;
+    vertical-align: 5vh;
+    border-right: 1px solid black;
 }
 
 /*------------------------------CONTENUE MAIN---------------------*/
@@ -34,7 +46,6 @@ main h1 {
     width: auto;
     display: table-cell;
     vertical-align: bottom;
-
 }
 
 main h2 {
