@@ -29,3 +29,27 @@ main {
     width: 99vw;
     border: 1px solid blue;
 }
+
+main h1 {
+    height: 25vh;
+    width: auto;
+    border: 1px solid black;
+    display: table-cell;
+    vertical-align: bottom;
+
+}
+
+main h2 {
+    height: 5vh;
+    width: auto;
+    border: 1px solid yellow;
+    vertical-align: top;
+}
+
+.Bouton {
+    border: 1px solid green;
+    height: 10vh;
+    width: auto;
+    display: table-cell;
+    vertical-align: middle;
+}
